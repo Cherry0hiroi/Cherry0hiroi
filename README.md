@@ -1,4 +1,4 @@
-https://github-readme-stats.shion.dev/api?username=Cherry0hiroi&theme=dark&hide_border=false&include_all_commits=false&count_private=false# 💫 About Me:
+ About Me:
 サクランボが大好きで、新しいことを学ぶのも大好きです。おしゃべりも大好きですし、アニメも好きで、最近は日本語を勉強しています。アニメを見たり写真を撮ったりするのも好きで、特に写真を撮るのが大好きです。
 
 
